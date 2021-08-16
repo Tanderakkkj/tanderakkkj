@@ -1,4 +1,4 @@
-# Olá! 👋
+# Olá! Meu nome é Tandera e este é meu GitHub! 👋
 
  <div>
   <a href="https://github.com/rafaballerini">
